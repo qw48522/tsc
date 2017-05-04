@@ -85,5 +85,5 @@ void main()
 	getdate(b);
 	int i;
 	i=(bj(a,b)?tsc(a,b):tsc(b,a));
-    printf("ÌìÊı²î£º%d\n",i);
+    printf("tsc :%d\n",i);
 }
